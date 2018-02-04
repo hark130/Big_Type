@@ -4,7 +4,7 @@ Print a message to the CLI in big type characters
 ## Installation
 
 ### Ubuntu 16.04
-  * Install python
+  * Install python 2.7.12
   * Install pip
     * ```sudo apt update```
     * ```sudo apt upgrade```
